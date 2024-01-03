@@ -1,13 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Lahlali
-====================================================================================================================================
+# Full Stack Developer - Your Name
 
-Full Stack Developer
---------------------
+I'm a Full Stack Developer with a passion for creating innovative solutions. My expertise includes HTML, CSS, JavaScript, PHP, and MySQL.
 
-    I'm a Full Stack Developer with a passion for creating innovative solutions. My expertise includes HTML, CSS, JavaScript, PHP, and MySQL.
+Let's build something amazing together!
 
-* 🌍  I'm based in Safi, Morocco
-* ✉️  You can contact me at [mohmmedlaeh81@gmail.com](mailto:mohmmedlaeh81@gmail.com)
+### Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-MohammedLahlali-<white>?logo=github)](https://github.com/mohmmedlahlali20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedLahlali-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)
+
 
 <a href="https://www.github.com/WailBoukhari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
