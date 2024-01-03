@@ -13,13 +13,13 @@ I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making 
 
 <!--🤔 I’m looking for help with supporting my open source projects.-->
 
-📫 How to reach me:
 
-`Website` - [Elangovan.in](https://elangovan.in)
+
+`Website` - [Elangovan.in](https://mohammedLahlali.io)
 
 ❤️ Support my open source projects:
 
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/elangosundar)
+[![Donate on Github](https://github.com/mohmmedlahlali20)
 
 <!--
 **elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
