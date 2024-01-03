@@ -15,8 +15,8 @@ I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making 
 
 
 
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-<white>?logo=github)](https://github.com/mohmmedlahlali20)
 
-[![GitHub](https://github.com/favicon.ico)](https://github.com/mohmmedlahlali20)
 
 
 <!--
