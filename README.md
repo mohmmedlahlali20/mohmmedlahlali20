@@ -1,4 +1,4 @@
-# Full Stack Developer - Your Name
+# Full Stack Developer - Mohammed Lahlali
 
 I'm a Full Stack Developer with a passion for creating innovative solutions. My expertise includes HTML, CSS, JavaScript, PHP, and MySQL.
 
