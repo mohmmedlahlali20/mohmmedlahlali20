@@ -7,7 +7,6 @@
 
 I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
-🔭 My Profile in LinkDine [(https://www.linkedin.com/in/mohammed-lahlali-a80996266/)]
 
 <!--👯 I’m looking to collaborate on ReactJS / VueJs projects
 
@@ -15,8 +14,9 @@ I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making 
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-<white>?logo=github)](https://github.com/mohmmedlahlali20)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohammed_Lahlali-<white>?logo=github)](https://github.com/mohmmedlahlali20)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Lahlali-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)
 
 
 <!--
