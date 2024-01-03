@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I have dedicated two years to the study of coding, initially focusing on HTML/CSS, and have since progressed towards becoming a proficient Full Stack Developer. My expertise enables me to design innovative and fully operational websites with creativity and precision.
+    I'm a Full Stack Developer with a passion for creating innovative solutions. My expertise includes HTML, CSS, JavaScript, PHP, and MySQL.
 
 * 🌍  I'm based in Safi, Morocco
 * ✉️  You can contact me at [mohmmedlaeh81@gmail.com](mailto:mohmmedlaeh81@gmail.com)
