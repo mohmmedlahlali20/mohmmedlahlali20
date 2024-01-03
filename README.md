@@ -1,47 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohammed Lahlali's GitHub Profile</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Lahlali
+====================================================================================================================================
 
-        h1 {
-            color: #333;
-        }
+Full Stack Developer
+--------------------
 
-        .icon {
-            font-size: 2rem;
-            margin: 10px;
-        }
+I have dedicated two years to the study of coding, initially focusing on HTML/CSS, and have since progressed towards becoming a proficient Full Stack Developer. My expertise enables me to design innovative and fully operational websites with creativity and precision.
 
-        .badge {
-            margin: 10px;
-            padding: 10px;
-            background-color: #007BFF;
-            color: #fff;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <p align="center">
-        <h1>Mohammed Lahlali</h1>
-    </p>
+* 🌍  I'm based in Safi, Morocco
+* ✉️  You can contact me at [mohmmedlaeh81@gmail.com](mailto:mohmmedlaeh81@gmail.com)
 
-    <p>I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.</p>
+<a href="https://www.github.com/WailBoukhari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-    <p align="center">
-        <i class="icon fab fa-github"></i>
-        <a href="https://github.com/mohammedlahlali20" class="badge">GitHub - Mohammed_Lahlali</a>
-        <i class="icon fab fa-linkedin"></i>
-        <a href="https://www.linkedin.com/in/mohammed-lahlali-a80996266/" class="badge" style="margin-left: 20px;">LinkedIn - Mohammed_Lahlali</a>
-    </p>
-</body>
-</html>
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/WailBoukhari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="[(https://github.com/mohmmedlahlali20)](https://github.com/mohmmedlahlali20)"><img src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohmmedlahlali20 GitHub stats" /></a>
+
+<a href="https://github.com/mohmmedlahlali20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/mohmmedlahlali20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
