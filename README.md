@@ -5,13 +5,13 @@
 <a href="https://elangovan.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
 </p>
 
-I'm Elangovan. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
+I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
-🔭 I’m currently working on opensource project [CodingAi](https://github.com/10secondsofcode/coding-ai) and [Postlify](https://github.com/elangosundar/postlify)
+🔭 My Profile in LinkDine [(https://www.linkedin.com/in/mohammed-lahlali-a80996266/)]
 
-👯 I’m looking to collaborate on ReactJS / VueJs projects.
+<!--👯 I’m looking to collaborate on ReactJS / VueJs projects
 
-🤔 I’m looking for help with supporting my open source projects.
+<!--🤔 I’m looking for help with supporting my open source projects.-->
 
 📫 How to reach me:
 
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
-</p>
+</p>.-->
 
