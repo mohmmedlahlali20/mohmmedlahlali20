@@ -15,11 +15,9 @@ I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making 
 
 
 
-`Website` - [Elangovan.in](https://mohammedLahlali.io)
 
-❤️ Support my open source projects:
+[![GitHub](https://github.com/favicon.ico)](https://github.com/mohmmedlahlali20)
 
-[![Donate on Github](https://github.com/mohmmedlahlali20)
 
 <!--
 **elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
