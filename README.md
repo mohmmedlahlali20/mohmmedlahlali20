@@ -19,7 +19,7 @@ I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Lahlali-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)
 
 
-<!--
+
 **elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
-</p>.-->
+</p>.
 
