@@ -20,7 +20,7 @@ I'm Mohammed Lahlali. I'm a Full Stack Developer who is passionate about making 
 
 
 
-**elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohammedlahlali/mohammedlahlali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
-</p>.
+	<img src=https://github-readme-stats.vercel.app/api?username=mohammedlahlali&show_icons=true alt=Mohammed Lahlali />
+</p>
+
 
