@@ -10,7 +10,7 @@ Let's build something amazing together!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedLahlali-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)
 
 
-<a href="https://www.github.com/WailBoukhari" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/mohmmedlahlali20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
