@@ -14,7 +14,7 @@ Let's build something amazing together!
 
 <a href="https://github.com/mohmmedlahlali20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedlahlali20&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedlahlali20" /> </p>
 ### Skills
 
 
