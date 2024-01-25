@@ -17,7 +17,6 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedlahlali20&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedlahlali20" /> </p>
 ### Skills
 
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -46,17 +45,20 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</a>
-<a href="https://www.uml.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/UML-333366?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
-</a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://www.uml.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/UML-333366?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  </a>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</a>
-
+  <!-- Add Laravel Logo -->
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="path/to/laravel-logo.svg" width="36" height="36" alt="Laravel" />
+  </a>
 </p>
 
 
