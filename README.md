@@ -33,6 +33,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 <!--   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
   </a> -->
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="36" height="36" alt="SQL" />
+</a>
+
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
