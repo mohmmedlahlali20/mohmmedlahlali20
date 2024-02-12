@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 
 
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="45" height="40" alt="SQL" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="40" alt="SQL" />
 </a>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="40" height="40" alt="Git" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="55" height="40" alt="Git" />
 </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
