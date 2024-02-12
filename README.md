@@ -45,10 +45,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="32" height="32"><path fill="#F05032" d="M10 0C4.477 0 0 4.477 0 10c0 4.418 2.865 8.17 6.84 9.484.5.092.683-.217.683-.483 0-.238-.01-1.035-.015-1.877-2.782.605-3.37-1.34-3.37-1.34-.454-1.148-1.108-1.455-1.108-1.455-.906-.618.069-.605.069-.605 1.002.07 1.53 1.028 1.53 1.028.892 1.527 2.34 1.086 2.91.831.091-.645.35-1.086.635-1.336-2.22-.254-4.553-1.111-4.553-4.94 0-1.09.39-1.984 1.029-2.682-.104-.254-.448-1.27.097-2.648 0 0 .84-.268 2.75 1.025A9.55 9.55 0 0110 5.977c.85.004 1.705.114 2.504.336 1.909-1.293 2.748-1.025 2.748-1.025.547 1.378.202 2.394.098 2.648.64.698 1.027 1.592 1.027 2.682 0 3.837-2.337 4.682-4.563 4.93.357.308.675.916.675 1.847 0 1.334-.012 2.411-.012 2.742 0 .268.18.581.688.482C17.138 18.17 20 14.418 20 10c0-5.523-4.477-10-10-10z"/></svg>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="36" height="36" alt="Git" />
+</a>
 
-  </a>
   <a href="https://www.uml.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/UML-333366?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
   </a>
