@@ -45,9 +45,7 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="36" height="36" alt="Git" />
-</a>
+
 
   <a href="https://www.uml.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/UML-333366?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
@@ -65,6 +63,9 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 ### Socials
 
 <p align="left"> <a href="https://github.com/mohmmedlahlali20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="45" height="36" alt="Git" />
+</a>
 
 ### Badges
 
