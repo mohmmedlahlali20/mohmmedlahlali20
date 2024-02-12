@@ -77,9 +77,9 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 <p align="left"> <a href="https://github.com/mohmmedlahlali20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Projets en Vedette
-- [ELECTRONQCER3V]([lien_vers_le_projet_1](https://github.com/mohmmedlahlali20/ELECTRONACER.V3))
+- [ELECTRONQCER3V]([(https://github.com/mohmmedlahlali20/ELECTRONACER.V3)])
 - [Projet 2]([lien_vers_le_projet_2](https://github.com/mohmmedlahlali20/electronacer2))
-- [Projet 3](lien_vers_le_projet_3)
+
 
 ### Badges
 
