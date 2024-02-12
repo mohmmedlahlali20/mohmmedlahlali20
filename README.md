@@ -48,10 +48,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-
 <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Unified_Modeling_Language_logo.svg/1200px-Unified_Modeling_Language_logo.svg.png" width="36" height="36" alt="UML" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Uml_diagram.svg/1200px-Uml_diagram.svg.png" width="36" height="36" alt="UML" />
 </a>
+
 
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
