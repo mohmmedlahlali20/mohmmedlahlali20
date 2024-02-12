@@ -78,7 +78,7 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 
 ### Projets en Vedette
 - [ELECTRONQCER3V]([(https://github.com/mohmmedlahlali20/ELECTRONACER.V3)])
-- [Projet 2]([lien_vers_le_projet_2](https://github.com/mohmmedlahlali20/electronacer2))
+- [Electro 2]([(https://github.com/mohmmedlahlali20/electronacer2)])
 
 
 ### Badges
