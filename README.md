@@ -54,11 +54,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
     <img src="https://img.shields.io/badge/UML-333366?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
   </a>
 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" width="36" height="36" alt="Laravel" />
+</a>
 
-  <!-- Add Laravel Logo -->
-  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
-    <img src="path/to/laravel-logo.svg" width="36" height="36" alt="Laravel" />
-  </a>
 </p>
 
 
