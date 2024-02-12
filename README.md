@@ -33,6 +33,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 <!--   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
   </a> -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="45" height="40" alt="MySQL" />
+</a>
+
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="45" height="40" alt="SQL" />
 </a>
