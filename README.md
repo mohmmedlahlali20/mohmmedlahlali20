@@ -30,17 +30,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a> 
-<!--   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-  </a> -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="36" height="36" alt="MySQL" />
-</a>
+  </a> 
 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="55" height="40" alt="MySQL" />
-</a>
 
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
