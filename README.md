@@ -38,9 +38,10 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
 </a>
 
 
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="40" alt="SQL" />
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="55" height="40" alt="MySQL" />
 </a>
+
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
@@ -57,9 +58,7 @@ src="https://img.shields.io/github/followers/mohmmedlahlali20?logo=github&style=
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-<a href="https://fr.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/UML_logo.svg/1200px-UML_logo.svg.png" width="36" height="36" alt="UML" />
-</a>
+
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" width="55" height="40" alt="Postman" />
 </a>
