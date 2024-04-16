@@ -14,6 +14,8 @@ Let's build something amazing together!
 
 ### Skills
 
+### Skills
+
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
@@ -36,22 +38,26 @@ Let's build something amazing together!
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-  </a> 
-  <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="55" height="40" alt="Ubuntu" />
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="55" height="40" alt="Git" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1278691829135876097/I_7g9G84.jpg" width="36" height="36" alt="Tailwind CSS" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="36" height="36" alt="Docker" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" width="55" height="40" alt="Postman" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="36" height="36" alt="jQuery" />
+  </a>
+  <a href="https://trello.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trello_Shiny_Icon.svg/1024px-Trello_Shiny_Icon.svg.png" width="36" height="36" alt="Trello" />
   </a>
 </p>
+
 
 ### Socials
 
