@@ -11,7 +11,6 @@ As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedlahlali20&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedlahlali20" /> </p>
 
 ### Skills
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" width="50" height="50" alt="Laravel" />
@@ -27,7 +26,9 @@ As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trello_logo_blue.svg/1024px-Trello_logo_blue.svg.png" width="50" height="50" alt="Trello" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MySQL_logo.svg/1024px-MySQL_logo.svg.png" width="50" height="50" alt="MySQL" />
 </p>
+
 
 
 
