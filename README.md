@@ -12,27 +12,25 @@ As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push
 
 ### Skills
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" width="50" height="50" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="50" height="50" alt="Sass" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="55" height="40" alt="PHP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" width="55" height="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="55" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="55" height="40" alt="Sass" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="55" height="40" alt="CSS3" />
   <img src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" width="55" height="40" alt="Postman" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="55" height="40" alt="Ubuntu" />
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50" alt="Bootstrap" />
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="50" height="50" alt="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="50" height="50" alt="PostgreSQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="100" height="50" alt="jQuery" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trello_logo_blue.svg/1024px-Trello_logo_blue.svg.png" width="50" height="50" alt="Trello" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50" alt="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MySQL_logo.svg/1024px-MySQL_logo.svg.png" width="50" height="50" alt="MySQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="55" height="40" alt="Ubuntu" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="55" height="40" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="55" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="55" height="40" alt="React" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="55" height="40" alt="Bootstrap" />
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="55" height="40" alt="Docker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="55" height="40" alt="PostgreSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="55" height="40" alt="jQuery" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" width="55" height="40" alt="Tailwind CSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trello_logo_blue.svg/1024px-Trello_logo_blue.svg.png" width="55" height="40" alt="Trello" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="55" height="40" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MySQL_logo.svg/1024px-MySQL_logo.svg.png" width="55" height="40" alt="MySQL" />
 </p>
-
-
 
 
 
