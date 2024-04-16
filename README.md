@@ -16,6 +16,8 @@ Let's build something amazing together!
 
 ### Skills
 
+### Skills
+
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
@@ -57,6 +59,7 @@ Let's build something amazing together!
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trello_Shiny_Icon.svg/1024px-Trello_Shiny_Icon.svg.png" width="36" height="36" alt="Trello" />
   </a>
 </p>
+
 
 
 ### Socials
