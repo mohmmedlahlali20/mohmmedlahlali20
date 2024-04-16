@@ -25,9 +25,10 @@ As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="50" height="50" alt="PostgreSQL" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="100" height="50" alt="jQuery" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trello_Shiny_Icon.svg/1024px-Trello_Shiny_Icon.svg.png" width="50" height="50" alt="Trello" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trello_logo_blue.svg/1024px-Trello_logo_blue.svg.png" width="50" height="50" alt="Trello" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50" alt="Git" />
 </p>
+
 
 
 
