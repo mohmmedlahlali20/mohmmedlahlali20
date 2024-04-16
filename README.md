@@ -14,65 +14,22 @@ Let's build something amazing together!
 
 ### Skills
 
-### Skills
 
-### Skills
-### Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" /><br>
-    PHP
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" width="50" height="50" alt="Laravel" /><br>
-    Laravel
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /><br>
-    HTML5
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="50" height="50" alt="Sass" /><br>
-    Sass
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /><br>
-    CSS3
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /><br>
-    JavaScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /><br>
-    React
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50" alt="Bootstrap" /><br>
-    Bootstrap
-  </div>
-  <div style="text-align: center;">
-    <img src="https://pbs.twimg.com/profile_images/1278691829135876097/I_7g9G84.jpg" width="50" height="50" alt="Tailwind CSS" /><br>
-    Tailwind CSS
-  </div>
-  <div style="text-align: center;">
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="50" height="50" alt="Docker" /><br>
-    Docker
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="50" height="50" alt="PostgreSQL" /><br>
-    PostgreSQL
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="50" height="50" alt="jQuery" /><br>
-    jQuery
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trello_Shiny_Icon.svg/1024px-Trello_Shiny_Icon.svg.png" width="50" height="50" alt="Trello" /><br>
-    Trello
-  </div>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1024px-Laravel.svg.png" width="50" height="50" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="50" height="50" alt="Sass" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" height="50" alt="Bootstrap" />
+  <img src="https://pbs.twimg.com/profile_images/1278691829135876097/I_7g9G84.jpg" width="50" height="50" alt="Tailwind CSS" />
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="50" height="50" alt="Docker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="50" height="50" alt="PostgreSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="50" height="50" alt="jQuery" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trello_Shiny_Icon.svg/1024px-Trello_Shiny_Icon.svg.png" width="50" height="50" alt="Trello" />
+</p>
 
 
 
