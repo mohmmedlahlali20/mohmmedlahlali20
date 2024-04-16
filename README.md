@@ -1,8 +1,6 @@
 # Full Stack Developer - Mohammed Lahlali
 
-I'm a Full Stack Developer with a passion for creating innovative solutions. My expertise includes HTML, CSS, JavaScript, PHP, and MySQL.
-
-Let's build something amazing together!
+As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push the boundaries of innovation. My skill set encompasses a wide array of technologies, including HTML, CSS, JavaScript, PHP, MySQL, React, Laravel, Ubuntu, and Docker. Whether it's designing responsive and intuitive user interfaces with HTML and CSS, implementing dynamic functionality with JavaScript, architecting robust backend systems with PHP and Laravel, optimizing database performance with MySQL, or deploying scalable applications with Docker on Ubuntu servers, I'm equipped to tackle any challenge. With a relentless passion for problem-solving and a commitment to excellence, I'm eager to collaborate and build something truly remarkable together. Let's bring our ideas to life and create extraordinary digital experiences that make a lasting impact.
 
 ### Connect with Me
 
@@ -26,8 +24,11 @@ Let's build something amazing together!
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="50" height="50" alt="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="50" height="50" alt="PostgreSQL" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1024px-JQuery_logo.svg.png" width="50" height="50" alt="jQuery" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Trello_Shiny_Icon.svg/1024px-Trello_Shiny_Icon.svg.png" width="50" height="50" alt="Trello" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" height="50" alt="Git" />
 </p>
+
 
 
 
