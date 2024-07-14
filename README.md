@@ -56,3 +56,6 @@ As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohmmedlahlali20&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rover07&theme=tokyo-night)](https://github.com/mohmmedlahlali20/github-readme-activity-graph)
