@@ -32,8 +32,8 @@ As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MySQL_logo.svg/1024px-MySQL_logo.svg.png" width="55" height="40" alt="MySQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" width="55" height="40" alt="FileZilla" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Drupal_logo.svg/1024px-Drupal_logo.svg.png" width="55" height="40" alt="Drupal" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
+
 
 ### Socials
 
