@@ -1,6 +1,5 @@
 # Full Stack Developer - Mohammed Lahlali
-
-As a Full Stack Developer, I thrive on crafting cutting-edge solutions that push the boundaries of innovation. My skill set encompasses a wide array of technologies, including HTML, CSS, JavaScript, PHP, MySQL, React, Laravel, Ubuntu, and Docker. Whether it's designing responsive and intuitive user interfaces with HTML and CSS, implementing dynamic functionality with JavaScript, architecting robust backend systems with PHP and Laravel, optimizing database performance with MySQL, or deploying scalable applications with Docker on Ubuntu servers, I'm equipped to tackle any challenge. With a relentless passion for problem-solving and a commitment to excellence, I'm eager to collaborate and build something truly remarkable together. Let's bring our ideas to life and create extraordinary digital experiences that make a lasting impact.
+I am a full-stack developer with experience in building web applications using technologies like React, Node.js, Laravel, and Tailwind CSS. I have a strong background in both frontend and backend development, and I enjoy creating dynamic, user-friendly interfaces and efficient, scalable backend systems.
 
 ### Connect with Me
 
