@@ -38,7 +38,7 @@ I am a full-stack developer with experience in building web applications using t
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Firebase" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" /></a>  
 
 
 </div>
@@ -81,6 +81,8 @@ I am a full-stack developer with experience in building web applications using t
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+  <a href="https://vscode.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="Firebase" height="50" /></a>  
+
 </div>
 
 </td></tr></table>  
