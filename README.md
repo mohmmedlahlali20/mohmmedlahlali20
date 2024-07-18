@@ -80,8 +80,8 @@ I am a full-stack developer with experience in building web applications using t
 <!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>   -->
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-  <a href="https://vscode.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="Firebase" height="50" /></a>  
+<!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="" alt="Bash" height="50" /></a>   -->
+  <a href="https://vscode.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,windows" alt="Firebase" height="50" /></a>  
 
 </div>
 
