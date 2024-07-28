@@ -122,7 +122,11 @@ I am a full-stack developer with experience in building web applications using t
 </div>
 
 <div>
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Status"/>
+  <a href="https://github.com/mohmmedlahlali20/">
+    <img width="61%" 
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmmedlahlali20&theme=tokyonight" 
+         alt="mohmmedlahlali20"/>
+  </a>
 </div>
 ### GitHub Trophies
 
