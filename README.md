@@ -111,6 +111,24 @@ I am a full-stack developer with experience in building web applications using t
 <br/>  <br/>  
 <br/>  <br/>  
 
+<div>
+  <a href="https://github.com/mohmmedlahlali20/">
+    <img width="49%" 
+         src="https://github-readme-stats-grazifalk.vercel.app/api?username=mohmmedlahlali20&theme=tokyonight&show_icons=true&hide_border=true" 
+         alt="mohmmedlahlali20"/>
+    <img width="49%" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" 
+         alt="mohmmedlahlali20"/>
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/mohmmedlahlali20/">
+    <img width="61%" 
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmmedlahlali20&theme=tokyonight" 
+         alt="mohmmedlahlali20"/>
+  </a>
+</div>
 
 
 ### GitHub Trophies
