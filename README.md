@@ -3,7 +3,7 @@ I am a full-stack developer with experience in building web applications using t
 
 ### Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohammedLahlali-white?logo=github)](https://github.com/mohmmedlahlali20)[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedLahlali-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)
+[![GitHub](https://img.shields.io/badge/GitHub-MohammedLahlali-white?logo=github)](https://github.com/mohmmedlahlali20)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedLahlali-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)
 
 ## WAKA TIME STATS :-  ![wakatime](https://wakatime.com/badge/user/e7a0b101-5e66-473c-82c1-35c9676ad3f3.svg)
 
