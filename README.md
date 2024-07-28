@@ -121,16 +121,6 @@ I am a full-stack developer with experience in building web applications using t
   </a>
 </div>
 
-<div>
-  <a href="https://github.com/mohmmedlahlali20/">
-    <img width="61%" 
-         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmmedlahlali20&theme=tokyonight" 
-         alt="mohmmedlahlali20"/>
-  </a>
-</div>
-### GitHub Trophies
-
-/*[![trophy](https://github-profile-trophy.vercel.app/?username=mohmmedlahlali20&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)*/
 
 
 [![Mohammed Lahlali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmmedlahlali20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
