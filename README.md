@@ -98,9 +98,7 @@ I am a full-stack developer with experience in building web applications using t
 
 
 ### Badges
-
 <b>My GitHub Stats</b>
- 
 
 <div>
   <a href="https://github.com/mohmmedlahlali20/">
@@ -115,11 +113,15 @@ I am a full-stack developer with experience in building web applications using t
 
 <div>
   <a href="https://github.com/mohmmedlahlali20/">
-    <img width="61%" 
+    <img width="49%" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" 
+         alt="Top Languages"/>
+    <img width="49%" 
          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmmedlahlali20&theme=tokyonight" 
          alt="mohmmedlahlali20"/>
   </a>
 </div>
+
 
 
 
