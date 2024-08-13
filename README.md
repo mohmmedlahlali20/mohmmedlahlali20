@@ -99,7 +99,6 @@ I am a full-stack developer with experience in building web applications using t
 
 ### Badges
 <b>My GitHub Stats</b>
-
 <div>
   <a href="https://github.com/mohmmedlahlali20/">
     <img width="49%" 
@@ -123,6 +122,7 @@ I am a full-stack developer with experience in building web applications using t
          alt="mohmmedlahlali20"/>
   </a>
 </div>
+
 
 
 
