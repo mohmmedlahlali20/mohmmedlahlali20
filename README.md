@@ -1,5 +1,4 @@
 # Full Stack Developer - Mohammed Lahlali
-I am a full-stack developer with experience in building web applications using technologies like React, Node.js, Laravel, and Tailwind CSS. I have a strong background in both frontend and backend development, and I enjoy creating dynamic, user-friendly interfaces and efficient, scalable backend systems.
 
 ### Connect with Me
 
