@@ -1,4 +1,4 @@
-# Full Stack Developer - Mohammed Lahlali
+# MERN Stack Developer - Mohammed Lahlali
 
 ### Connect with Me
 
