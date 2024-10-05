@@ -76,7 +76,34 @@
 </table>
 
 
+### Badges
 
-![Icon for Activities](https://image.shutterstock.com/image-vector/vector-activity-icon-260nw-1673237436.jpg)
-![Icon for Département DENTAIRE](https://image.shutterstock.com/image-vector/dental-icon-260nw-1655368986.jpg)
+<b>My GitHub Stats</b>
+<div>
+  <a href="https://github.com/mohmmedlahlali20/">
+    <img width="49%" 
+         src="https://github-readme-stats-grazifalk.vercel.app/api?username=mohmmedlahlali20&theme=tokyonight&show_icons=true&hide_border=true" 
+         alt="mohmmedlahlali20"/>
+    <img width="49%" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" 
+         alt="mohmmedlahlali20"/>
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/mohmmedlahlali20/">
+    <img width="49%" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" 
+         alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/mohmmedlahlali20/">
+     <img width="49%" 
+         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmmedlahlali20&theme=tokyonight" 
+         alt="mohmmedlahlali20"/>
+  </a>
+</div>
+
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mohmmedlahlali20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![Mohammed Lahlali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmmedlahlali20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
