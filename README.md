@@ -121,7 +121,7 @@
 </div>
 
 
-
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mohmmedlahlali20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 [![Mohammed Lahlali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmmedlahlali20&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
