@@ -71,4 +71,12 @@
 
 </td>
   </tr>
+
+
 </table>
+
+
+
+![Icon for Activities](https://image.shutterstock.com/image-vector/vector-activity-icon-260nw-1673237436.jpg)
+![Icon for Département DENTAIRE](https://image.shutterstock.com/image-vector/dental-icon-260nw-1655368986.jpg)
+
