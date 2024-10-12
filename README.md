@@ -92,7 +92,7 @@
 
 <div>
   <a href="https://github.com/mohmmedlahlali20/">
-    <img width="49%" 
+    <img width="100%" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" 
          alt="Top Languages"/>
   </a>
