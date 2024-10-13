@@ -88,11 +88,12 @@
          src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" 
          alt="mohmmedlahlali20"/>
   </a>
+  <a href="https://github.com/mohmmedlahlali20/github-contributor-stats">![mohmmedlahlali's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=mohmmedlahlali20&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
 </div>
 
 <div>
   <a href="https://github.com/mohmmedlahlali20/">
-    <img width="100%" 
+    <img width="50%" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" 
          alt="Top Languages"/>
   </a>
