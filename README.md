@@ -90,12 +90,7 @@
            alt="mohmmedlahlali20"/>
     </a>
   </div>
-  <div>
-    <a href="https://github.com/mohmmedlahlali20/github-contributor-stats">
-      <img src="https://github-contributor-stats.vercel.app/api?username=mohmmedlahlali20&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false"
-           alt="mohmmedlahlali's GitHub Contributor stats"/>
-    </a>
-  </div>
+  
 </div>
 
   <a href="https://github.com/mohmmedlahlali20/">
