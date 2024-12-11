@@ -103,7 +103,7 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 
 <br/>  
 
@@ -133,5 +133,3 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
