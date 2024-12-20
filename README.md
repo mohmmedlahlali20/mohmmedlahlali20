@@ -103,8 +103,7 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taniyow&theme=gotham)
 <br/>  
 
 
