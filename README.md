@@ -104,6 +104,7 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 
 ## Github Stats  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohmmedlahlali20&theme=gotham)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
 
 
