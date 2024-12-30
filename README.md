@@ -101,35 +101,29 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 
 <br/>  
 
-
 ## Github Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohmmedlahlali20&theme=gotham)
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=mohmmedlahlali20&&style=flat-square)  
   
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mohmmedlahlali20&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/mohmmedlahlali20" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
+
 
