@@ -116,6 +116,21 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 <br/>  
 
   
+<div>
+<a href="https://github.com/Abdurahman-hassan/">
+<img width="49%" 
+src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&theme=tokyonight&show_icons=true&hide_border=true" alt="Abdurahman-hassan"/>
+<img width="49%" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt"Abdurahman-hassan"/>
+</div>
+
+<div>
+<a href="https://github.com/Abdurahman-hassan/">
+<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurahman-hassan&theme=tokyonight" alt="Abdurahman-hassan"/>
+</div>
+  
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
 
 <br/>  
 
