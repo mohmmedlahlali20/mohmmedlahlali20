@@ -117,16 +117,16 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 
   
 <div>
-<a href="https://github.com/Abdurahman-hassan/">
+<a href="https://github.com/mohmmedlahlali20/">
 <img width="49%" 
-src="https://github-readme-stats-grazifalk.vercel.app/api?username=Abdurahman-hassan&theme=tokyonight&show_icons=true&hide_border=true" alt="Abdurahman-hassan"/>
+src="https://github-readme-stats-grazifalk.vercel.app/api?username=v&theme=tokyonight&show_icons=true&hide_border=true" alt="mohmmedlahlali20"/>
 <img width="49%" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt"Abdurahman-hassan"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight" alt"mohmmedlahlali20"/>
 </div>
 
 <div>
-<a href="https://github.com/Abdurahman-hassan/">
-<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurahman-hassan&theme=tokyonight" alt="Abdurahman-hassan"/>
+<a href="https://github.com/mohmmedlahlali20/">
+<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohmmedlahlali20&theme=tokyonight" alt="mohmmedlahlali20"/>
 </div>
   
 ![Status](./profile-3d-contrib/profile-night-green.svg)
@@ -135,17 +135,17 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurahman-hassan&hi
 <br/>  
 
 <img width="36%" alt="Abdurahman hassan's Top Languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-hassan&count_private=true&layout=compact&langs_count=25&theme=tokyonight"/>  
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&count_private=true&layout=compact&langs_count=25&theme=tokyonight"/>  
 
 ##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdurahman-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="Abdurahman-hassan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedlahlali20&label=Profile%20views&color=0e75b6&style=flat" alt="Abdurahman-hassan" /> </p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=567BBC&height=80&section=footer"/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 <br/>
 
-![Snake animation](https://github.com/Abdurahman-hassan/Abdurahman-hassan/blob/output/github-snake-dark.svg?palette=github-dark?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![Snake animation](https://github.com/mohmmedlahlali20/mohmmedlahlali20/blob/output/github-snake-dark.svg?palette=github-dark?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 
 <br/>  
