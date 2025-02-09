@@ -75,7 +75,6 @@ Full-Stack Developer specializing in JavaScript 👨‍💻</div>
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-[![mohammed laehlali stats](https://github-readme-stats.vercel.app/api/mohmmedlahlali20?username=mohmmedalhlali20)](https://github.com/mohmmedlahlali20/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
