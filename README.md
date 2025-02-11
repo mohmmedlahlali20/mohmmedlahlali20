@@ -64,19 +64,6 @@
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
 </div>
 
----
-
-## Featured Projects
-
-### Project 1: [Project Name](#)
-- Description of the project.
-- Technologies used: React, Node.js, MongoDB.
-
-### Project 2: [Another Project](#)
-- Another project description.
-- Technologies used: Next.js, TypeScript, Tailwind CSS.
-
----
 
 ## GitHub Stats
 
