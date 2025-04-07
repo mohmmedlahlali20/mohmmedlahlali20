@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on a full-stack portfolio project using Next.js, MongoDB, and Tailwind CSS.  <br>👯 I’m looking to collaborate on open-source projects or mobile apps built with React Native.  <br>🤝 I’m looking for help with building a solid CI/CD pipeline and deploying backend services with Docker.  <br>🌱 I’m currently learning Flask and PostgreSQL to improve my Python backend skills.  <br>💬 Ask me about React Native, NestJS, or building mobile-first applications.  <br>⚡ Fun fact: I love survival/action series and often get inspired by them for my UI themes!<br>
+
 
 
 ## 🌐 Socials:
