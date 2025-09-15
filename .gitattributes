@@ -1,16 +1,7 @@
-# Ignore everything except JS, TS, Python
-
+*.php linguist-vendored
 *.html linguist-vendored
 *.css linguist-vendored
 *.md linguist-vendored
-*.sh linguist-vendored
-*.yml linguist-vendored
-*.json linguist-vendored
-*.lock linguist-vendored
-*.php linguist-vendored
-
-
-
 
 *.ts linguist-language=TypeScript
 *.js linguist-language=JavaScript
