@@ -1,46 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Mohammed%20Lahlali&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=200&section=header&text=Mohammed%20Lahlali&fontSize=70&animation=fadeIn" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Crafting+Digital+Experiences;Full+Stack+Architecture;Always+Learning" />
+  </p>
+
+  <p align="center">
+    <a href="https://visitcount.itsvg.in/api?id=mohmmedlahlali20&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=mohmmedlahlali20&icon=0&color=0" /></a>
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack Categorized
+### 🌌 The Lab (Tech Ecosystem)
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Database** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel) |
+<details open>
+<summary><b>🛰️ Frontend Orbit</b></summary>
+<br />
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</details>
+
+<details>
+<summary><b>⚙️ Backend Core</b></summary>
+<br />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</details>
 
 ---
 
-### 📊 Modern Stats & Activity
+### 📊 System Diagnostics (Stats)
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF" width="300" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&theme=react&hide_border=true&background=0D1117&stroke=00D2FF&ring=00D2FF" width="710" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Hall of Fame
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohmmedlahlali20&theme=dracula&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohmmedlahlali20&theme=darkhub&no-frame=true&column=4&margin-w=15" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</div>
-
-<div align="center">
-  <br />
-  <sub>Built with ❤️ by Mohammed Lahlali — Total Visits: <img src="https://visitcount.itsvg.in/api?id=mohmmedlahlali20&icon=0&color=0" align="center" /></sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&bg_color=0D1117" />
 </div>
