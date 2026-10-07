@@ -52,7 +52,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmedlahlali20&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://ghchart.rshah.org/36BCF7/mohmmedlahlali20" alt="Contribution chart" width="90%" />
 </div>
 
 ---
