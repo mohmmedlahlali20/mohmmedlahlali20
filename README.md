@@ -68,9 +68,9 @@
 
 ### 📬 Get in Touch
 
-- 🌐 **Portfolio:** [portfolio-mohmmed-lahlali.vercel.app](https://portfolio-mohmmed-lahlali.vercel.app)[cite: 3]
-- 💼 **LinkedIn:** [linkedin.com/in/mohammed-lahlali](https://linkedin.com/in/mohammed-lahlali)[cite: 3]
-- ✉️ **Direct Email:** mohammedlahlali@example.com
+- 🌐 **Portfolio:** [portfolio-mohmmed-lahlali.vercel.app](https://prfl-amber.vercel.app/)[cite: 3]
+- 💼 **LinkedIn:** [linkedin.com/in/mohammed-lahlali](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)[cite: 3]
+- ✉️ **Direct Email:** mohmmedlaeh81@gmail.com
 
 <div align="center">
   <sub>Crafted with passion for clean code & scalable systems.</sub>
