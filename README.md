@@ -1,77 +1,37 @@
-<div align="center">
-  <h1>Hi there, I'm Mohammed Lahlali 👋</h1>
-  <p><strong>Full-Stack Software Engineer | Backend & Distributed Systems Enthusiast</strong></p>
+# Hi, I'm Mohammed Lahlali 👋
 
-  <p>
-    <a href="https://linkedin.com/in/mohammed-lahlali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mohammedlahlali@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/mohmmedlahlali20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
+**Full-stack developer · TypeScript, PHP & Python**
 
----
+I build web applications and APIs with React, Next.js, NestJS, Laravel, and FastAPI. My work includes interactive mapping, asynchronous document processing, and real-time collaboration.
 
-### 🚀 About Me
+[Portfolio](https://prfl-amber.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mohammed-lahlali-a80996266/) · [Email](mailto:mohmmedlaeh81@gmail.com)
 
-- 💻 **Engineering:** Passionate Full-Stack Developer with hands-on experience designing, developing, and deploying scalable web architectures and robust APIs.
-- 🏗️ **Core Focus:** Building high-performance backends (Node.js/NestJS, PHP/Laravel) and modern, accessible frontends (React, Next.js, TypeScript).
-- 🎯 **Best Practices:** Strong advocate for Clean Architecture, SOLID principles, CI/CD automation, and database query optimization[cite: 3].
-- 💬 **Ask me about:** RESTful APIs, Microservices, Asynchronous processing (Queues/Jobs), Redis caching, and Docker workflows[cite: 3].
+## Selected projects
 
----
+### HAB · Geospatial monitoring at Arias Tech Solutions
 
-### 🛠️ Tech Stack & Tooling
+Built a NestJS endpoint that generates vector tiles for harmful algal bloom detections and integrated the tile layer into an interactive Next.js map. The map supports filtering detections and inspecting individual features.
 
-<div align="left">
+**Stack** · NestJS, MongoDB, Next.js, Mapbox GL, GeoJSON
 
-#### **Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### EZHire · AI-assisted recruitment
 
-#### **Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+Built a recruitment platform with CV screening, background processing, and a Kanban board for tracking candidates through the hiring pipeline.
 
-#### **DevOps, Tools & Architecture**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Stack** · Next.js, FastAPI, Supabase, Redis, ARQ
 
-</div>
+### Chat App · Messaging and video meetings
 
----
+Built a messaging and meeting app with direct and group conversations, a meeting waiting room, and WebRTC calls. Modeled conversations, member roles, and messages with Prisma and PostgreSQL.
 
-### 📊 GitHub Activity & Metrics
+**Stack** · Next.js, NestJS, WebRTC, Prisma, PostgreSQL
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammed's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+## Tech stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 📬 Get in Touch
-
-- 🌐 **Portfolio:** [portfolio-mohmmed-lahlali.vercel.app](https://prfl-amber.vercel.app/)[cite: 3]
-- 💼 **LinkedIn:** [linkedin.com/in/mohammed-lahlali](https://www.linkedin.com/in/mohammed-lahlali-a80996266/)[cite: 3]
-- ✉️ **Direct Email:** mohmmedlaeh81@gmail.com
-
-<div align="center">
-  <sub>Crafted with passion for clean code & scalable systems.</sub>
-</div>
+| Area | Tools |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, NestJS, PHP, Laravel, Python, FastAPI |
+| Data | PostgreSQL, MongoDB, MySQL, Redis, Supabase |
+| Mapping | Mapbox GL, GeoJSON, vector tiles |
+| Tooling | Docker, Git, Linux |
