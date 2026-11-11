@@ -75,6 +75,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohmmedlahlali20&theme=dark&hide_border=false" alt="GitHub Streak" height="165" />
+  <img src="https://prfl-amber.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Languages" height="165" />
+</p>
 <br />
 
 <div align="center">
