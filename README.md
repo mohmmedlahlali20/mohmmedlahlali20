@@ -1,44 +1,82 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Mohammed Lahlali, full-stack developer" width="960" />
+  <h1>Hey there, I'm Mohamed Lahlali 👋</h1>
+  <p><strong>Full-Stack Software Engineer & Solutions Developer</strong></p>
+  <p>Building high-performance web platforms, real-time architectures, and developer tooling.</p>
 
-  <p><strong><a href="https://prfl-amber.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mohammed-lahlali-a80996266/">LinkedIn</a> · <a href="mailto:mohmmedlaeh81@gmail.com">Email</a></strong></p>
-
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-171C27?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-B92246?style=flat-square&amp;logo=nestjs&amp;logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-B82D25?style=flat-square&amp;logo=laravel&amp;logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-00776E?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-335D95?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1269A8?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <p>
+    <a href="https://linkedin.com/in/mohammedlahlali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mohmmedlaeh81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://malt.fr/profile/mohammedlahlali"><img src="https://img.shields.io/badge/Malt-FF5A5F?style=for-the-badge&logo=malt&logoColor=white" alt="Malt" /></a>
+  </p>
 </div>
 
 ---
 
-I build web apps and APIs for interactive maps, document processing, and real-time collaboration.
+### 🚀 About Me
 
-## Selected projects
-
-### 01 · HAB · Geospatial monitoring at Arias Tech Solutions
-
-Built a NestJS endpoint that generates vector tiles for harmful algal bloom detections and integrated the tile layer into an interactive Next.js map. The map supports filtering detections and inspecting individual features.
-
-**Stack** · NestJS, MongoDB, Next.js, Mapbox GL, GeoJSON
-
-### 02 · EZHire · AI-assisted recruitment
-
-Built a recruitment platform with CV screening, background processing, and a Kanban board for tracking candidates through the hiring pipeline.
-
-**Stack** · Next.js, FastAPI, Supabase, Redis, ARQ
-
-### 03 · Chat App · Messaging and video meetings
-
-Built a messaging and meeting app with direct and group conversations, a meeting waiting room, and WebRTC calls. Modeled conversations, member roles, and messages with Prisma and PostgreSQL.
-
-**Stack** · Next.js, NestJS, WebRTC, Prisma, PostgreSQL
+- 💻 **Core Focus**: Designing scalable full-stack applications with modern **TypeScript/Node**, **Next.js**, and **Laravel**.
+- ⚙️ **Architecture & Systems**: Event-driven systems, WebSockets (Reverb/Socket.io), REST APIs, and background job queues.
+- 📱 **Cross-Platform**: Mobile engineering using **React Native** & **Expo**.
+- 🛠️ **DevOps & Tooling**: Docker Compose, Linux server management, CI/CD pipelines, and database optimization.
+- 🎯 **Currently**: Expanding cloud native systems, exploring enterprise architectures, and shipping production-ready side projects.
 
 ---
 
-## Find code you can explore
+### 🛠️ Tech Stack & Toolbox
 
-- **[MapGuesserGame](https://github.com/mohmmedlahlali20/MapGuesserGame)** · A React and Leaflet geography game with timed rounds and distance-based scoring.
-- **[Eventoo](https://github.com/mohmmedlahlali20/Eventoo)** · A Laravel event booking app with role-based access for administrators and organizers.
+#### Languages & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
+
+#### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+#### Backend & APIs
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+#### Databases & Cloud / DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📂 Featured Projects & Work
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **OptimaCV** | AI-assisted resume studio with ATS audit panels, scoring engine, and live preview sync. | Nuxt / Vue, Node.js, AI APIs |
+| **Beztami** | Local-first personal finance and expense budgeting app engineered for seamless offline use. | React Native, Expo, Supabase |
+| **Telemetry & Fleet Tracker** | Real-time map tracking with OSRM road snapping, vehicle HUDs, and low-latency events. | Laravel, Reverb, React Leaflet |
+| **Coworking Space API** | Robust booking and workspace access management API with strict RBAC and Sanctum auth. | Laravel 11, PostgreSQL, Spatie |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohmmedlahlali20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmedlahlali20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedlahlali20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
